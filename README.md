@@ -1,6 +1,6 @@
-# falci
+# Fortune
 
-A new Flutter project.
+Fortune Application
 
 ## Getting Started
 
